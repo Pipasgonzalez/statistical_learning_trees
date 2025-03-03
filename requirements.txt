@@ -1,2 +1,4 @@
 sklearn
 pandas
+ipykernel
+scikit-learn
