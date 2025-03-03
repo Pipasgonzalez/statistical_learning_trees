@@ -1,0 +1,22 @@
+- Data Preprocessing:
+    - Load Data
+    - Sample Data
+    - Split Data
+
+- Data Exploration / Description:
+    - Numeric Description (.describe())
+    - Graphical Description (boxplots, scatterplots?)
+
+- Create Models
+    1. Classification Tree (CART)
+    2. Random Forest, properly tuned.
+    3. A a traditional boosting model (e.g., XGBoost, LightGBM) or the C5.0 algorithm for
+    tree-based boosting.
+    4. Additional Model: You may add a fourth model of your choice
+
+- Model Evaluation:
+    - Confusion Matrix (sklearn)
+    - Metrics + ROC Curve (sklearn)
+
+
+- Hyperparameter Tuning
