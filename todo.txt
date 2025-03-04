@@ -20,3 +20,5 @@
 
 
 - Hyperparameter Tuning
+    - K-Fold Cross Validation
+    - Check if tunign improves accuracy or not
