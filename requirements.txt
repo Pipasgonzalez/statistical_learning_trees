@@ -2,3 +2,7 @@ sklearn
 pandas
 ipykernel
 scikit-learn
+graphviz
+pydotplus
+seaborn
+matplotlib
