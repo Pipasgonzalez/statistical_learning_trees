@@ -6,3 +6,4 @@ graphviz
 pydotplus
 seaborn
 matplotlib
+xgboost
